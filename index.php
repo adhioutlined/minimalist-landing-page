@@ -71,7 +71,7 @@
             <a class="fab fa-linkedin-in" href="https://www.linkedin.com/in/adhipri/"></a>
             <a class="fab fa-facebook-f" href="https://www.facebook.com/adhi.pri/"></a>
             <a class="fab fa-github" href="https://github.com/adhioutlined"></a>
-            <!-- <a class="fab fa-flickr" href=""></a> -->
+            <a class="fab fa-instagram" href="https://instagram.com/adhioutlined"></a>
           </div>
         </div>
       </div>
