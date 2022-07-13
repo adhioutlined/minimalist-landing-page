@@ -54,10 +54,10 @@
           </div>
           <div id="rotating-paragraphs" class="slider"> <!-- Add class="slider" and look at main.js if you want to use rotating paragraphs, removed by default because of warnings from empty slider.-->
             <div class="item">
-               <p>Glad to see you arrive here safely, I khow how feel jumping in hyperspace using my scripts<span>Whew.</span></p>
+               <p>Glad to see you arrive here safely, I khow how feel jumping in hyperspace using my scripts <span>Woo..Hoo.</span></p>
             </div>
             <div class="item">
-               <p>This server using <b><?php echo $_SERVER['SERVER_SOFTWARE']; ?></b> as Webserver, mixed with <a href="/info.php"><b><?php echo 'PHP version: ' . phpversion(); ?></b></a>.
+               <p>This server using <b><?php echo $_SERVER['SERVER_SOFTWARE']; ?></b> as Webserver, mixed with <a href="info.php"><b><?php echo 'PHP version: ' . phpversion(); ?></b></a>.
                   Database Engine <b>postgreSQL</b> <span>Whew.</span>
                </p>
             </div>
