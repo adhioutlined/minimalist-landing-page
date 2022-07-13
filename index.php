@@ -62,7 +62,7 @@
                </p>
             </div>
             <div class="item">
-               <p>I'am adhi, just another Padawan waiting to be an <span>Jedi.</span>
+               <img src="icons8-jedi-16.png" alt="" width="16" height="16"><p>I'am adhi, it is an honor for me to be your <span>Jedi.</span>
                </p>
             </div>  
           </div>
