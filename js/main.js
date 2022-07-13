@@ -33,12 +33,12 @@ var headersBlue = [ //Descriptive and re-affirming words here
   "rotating-paragraphs" div must also be of class
   "slider"
 */
-var rotateParagraph = false;
+var rotateParagraph = true;
 
 /* Connects paragraph to header slider so they slide
   at the same time.
 */
-var connectParagraphToHeaders = false;
+var connectParagraphToHeaders = true;
 
 /* The paragraphs to rotate between. If rotateParagraph is disabled,
   the first element also serves as the only paragraph. You can
