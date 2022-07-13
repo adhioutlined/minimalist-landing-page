@@ -67,11 +67,11 @@
             </div>  
           </div>
           <div id="social-bar">
-            <a class="fas fa-envelope" href="mailto:"></a>
-            <a class="fab fa-linkedin-in" href=""></a>
-            <a class="fab fa-facebook-f" href=""></a>
-            <a class="fab fa-github" href=""></a>
-            <a class="fab fa-flickr" href=""></a>
+            <a class="fas fa-envelope" href="mailto:adhi.pri@gmail.com"></a>
+            <a class="fab fa-linkedin-in" href="https://www.linkedin.com/in/adhipri/"></a>
+            <a class="fab fa-facebook-f" href="https://www.facebook.com/adhi.pri/"></a>
+            <a class="fab fa-github" href="https://github.com/adhioutlined"></a>
+            <!-- <a class="fab fa-flickr" href=""></a> -->
           </div>
         </div>
       </div>
