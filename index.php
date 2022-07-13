@@ -5,9 +5,9 @@
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>Daniel Bala</title>
-  <meta name="description" content="A minimalistic personal website.">
-  <meta name="author" content="Daniel Bala">
+  <title>Feel The Force</title>
+  <meta name="description" content="Just Another Test Page.">
+  <meta name="author" content="Adhi Priharmanto">
 
   <!-- Mobile Specific Metas
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -43,19 +43,28 @@
         <div class="one-half column" style="margin-top: 25%">
           <div id="rotating-words" class="slider"> <!-- Words from main.js added here -->
             <div class="item">
-              <h4>Hi, I'm <span>Dan.</span></h4>
+              <h4>Holla <span>Folks.</span></h4>
             </div>
             <div class="item">
-              <h4>Hi, I'm <span>a student.</span></h4>
+              <h4>Time to <span>know.</span></h4>
             </div>
             <div class="item">
-              <h4>Hi, I'm <span>a goofy goober.</span></h4>
+              <h4>Psst, I'm <span>adhi.</span></h4>
             </div>
           </div>
-          <div id="rotating-paragraphs" class=""> <!-- Add class="slider" and look at main.js if you want to use rotating paragraphs, removed by default because of warnings from empty slider.-->
-            <p>This server using <b><?php echo $_SERVER['SERVER_SOFTWARE']; ?></b> as Webserver, mixed with <b><?php echo 'PHP version: ' . phpversion(); ?></b>.
-              Database Engine <b>postgreSQL</b> <span>Whew.</span>
-             </p>
+          <div id="rotating-paragraphs" class="slider"> <!-- Add class="slider" and look at main.js if you want to use rotating paragraphs, removed by default because of warnings from empty slider.-->
+            <div class="item">
+               <p>Glad to see you arrive here safely, I khow how feel jumping in hyperspace using my scripts<span>Whew.</span></p>
+            </div>
+            <div class="item">
+               <p>This server using <b><?php echo $_SERVER['SERVER_SOFTWARE']; ?></b> as Webserver, mixed with <b><?php echo 'PHP version: ' . phpversion(); ?></b>.
+                  Database Engine <b>postgreSQL</b> <span>Whew.</span>
+               </p>
+            </div>
+            <div class="item">
+               <p>Just another Padawan, waiting to be an <span>Jedi.</span>
+               </p>
+            </div>  
           </div>
           <div id="social-bar">
             <a class="fas fa-envelope" href="mailto:"></a>
