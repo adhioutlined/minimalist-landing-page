@@ -53,7 +53,7 @@
             </div>
           </div>
           <div id="rotating-paragraphs" class=""> <!-- Add class="slider" and look at main.js if you want to use rotating paragraphs, removed by default because of warnings from empty slider.-->
-            <p>This server using <b></b> as Webserver, mixed with <b><?php echo 'PHP version: ' . phpversion(); ?></b> 
+            <p>This server using <b><?php echo $_SERVER['SERVER_SOFTWARE']; ?></b> as Webserver, mixed with <b><?php echo 'PHP version: ' . phpversion(); ?></b> 
                <span>Whew.</span>
              </p>
           </div>
